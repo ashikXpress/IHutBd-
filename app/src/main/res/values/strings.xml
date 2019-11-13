@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IHutBD</string>
+
+    <string-array name="cities">
+        <item>Dhaka</item>
+        <item>Chitagong</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Borishal</item>
+        <item>Rangpur</item>
+    </string-array>
+
+</resources>
